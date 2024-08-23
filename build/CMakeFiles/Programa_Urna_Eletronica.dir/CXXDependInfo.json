@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica/build",
+	"dir-cur-src" : "C:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica",
+	"dir-top-bld" : "C:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica/build",
+	"dir-top-src" : "C:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica/build/CMakeFiles/Programa_Urna_Eletronica.dir"
+}
