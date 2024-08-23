@@ -1,0 +1,3 @@
+C:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica/cmake-build-debug/CMakeFiles/Programa_Urna_Eletronica.dir
+C:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
