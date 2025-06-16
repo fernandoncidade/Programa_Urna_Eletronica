@@ -15,7 +15,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/addr2line.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/addr2line.exe"
 		},
 		{
 			"name" : "CMAKE_AR",
@@ -31,7 +31,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/ar.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/ar.exe"
 		},
 		{
 			"name" : "CMAKE_BUILD_TYPE",
@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica/cmake-build-debug"
+			"value" : "c:/Users/ferna/WORK/Projetos_CPP/Programa_Urna_Eletronica/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "29"
+			"value" : "31"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2024.1.4/bin/cmake/win/x64/bin/cmake.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2024.1.4/bin/cmake/win/x64/bin/cpack.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -139,7 +139,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2024.1.4/bin/cmake/win/x64/bin/ctest.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -151,11 +151,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "UNINITIALIZED",
-			"value" : "C:/mingw64/bin/g++.exe"
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/g++.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -171,7 +171,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/gcc-ar.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/gcc-ar.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_RANLIB",
@@ -187,7 +187,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/gcc-ranlib.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/gcc-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS",
@@ -295,11 +295,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "UNINITIALIZED",
-			"value" : "C:/mingw64/bin/gcc.exe"
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/gcc.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -315,7 +315,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/gcc-ar.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/gcc-ar.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_RANLIB",
@@ -331,7 +331,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/gcc-ranlib.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/gcc-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/dlltool.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/dlltool.exe"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -559,7 +559,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/ferna/WORK/Projetos_CPP/Programa_Urna_Eletronica/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -631,7 +631,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica"
+			"value" : "C:/Users/ferna/WORK/Projetos_CPP/Programa_Urna_Eletronica"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,19 +659,23 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/ld.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/ld.exe"
 		},
 		{
 			"name" : "CMAKE_MAKE_PROGRAM",
 			"properties" : 
 			[
 				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "make program"
 				}
 			],
-			"type" : "UNINITIALIZED",
-			"value" : "C:/mingw64/bin/mingw32-make.exe"
+			"type" : "FILEPATH",
+			"value" : "C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -767,7 +771,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/nm.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/nm.exe"
 		},
 		{
 			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
@@ -795,7 +799,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/objcopy.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/objcopy.exe"
 		},
 		{
 			"name" : "CMAKE_OBJDUMP",
@@ -811,7 +815,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/objdump.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/objdump.exe"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -875,7 +879,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/ranlib.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER",
@@ -891,7 +895,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/windres.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/windres.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER_WORKS",
@@ -999,7 +1003,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/readelf.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/readelf.exe"
 		},
 		{
 			"name" : "CMAKE_ROOT",
@@ -1011,7 +1015,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2024.1.4/bin/cmake/win/x64/share/cmake-3.29"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/share/cmake-3.31"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1219,7 +1223,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/mingw64/bin/strip.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/strip.exe"
 		},
 		{
 			"name" : "CMAKE_TAPI",
@@ -1263,7 +1267,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica/cmake-build-debug"
+			"value" : "C:/Users/ferna/WORK/Projetos_CPP/Programa_Urna_Eletronica/cmake-build-debug"
 		},
 		{
 			"name" : "Programa_Urna_Eletronica_IS_TOP_LEVEL",
@@ -1287,7 +1291,31 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica"
+			"value" : "C:/Users/ferna/WORK/Projetos_CPP/Programa_Urna_Eletronica"
+		},
+		{
+			"name" : "_CMAKE_CXX_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
+		},
+		{
+			"name" : "_CMAKE_C_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

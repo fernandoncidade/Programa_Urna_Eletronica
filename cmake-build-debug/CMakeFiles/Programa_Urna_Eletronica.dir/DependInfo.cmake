@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/ferna/PROJETOS/Projetos_CPP/meus_Programas/Programa_Urna_Eletronica/Programa_Urna_Eletronica.cpp" "CMakeFiles/Programa_Urna_Eletronica.dir/Programa_Urna_Eletronica.cpp.obj" "gcc" "CMakeFiles/Programa_Urna_Eletronica.dir/Programa_Urna_Eletronica.cpp.obj.d"
+  "C:/Users/ferna/WORK/Projetos_CPP/Programa_Urna_Eletronica/Programa_Urna_Eletronica.cpp" "CMakeFiles/Programa_Urna_Eletronica.dir/Programa_Urna_Eletronica.cpp.obj" "gcc" "CMakeFiles/Programa_Urna_Eletronica.dir/Programa_Urna_Eletronica.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
